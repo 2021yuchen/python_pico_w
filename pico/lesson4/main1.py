@@ -1,1 +1,1 @@
-print("Hellow! Python form micropyyhon")
+print("Hello! Python from micropython")
