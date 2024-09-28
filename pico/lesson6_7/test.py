@@ -8,5 +8,4 @@ pwm.freq(1000)
 while True:
 	duty = adc.read_u16()
 	pwm.duty_u16(duty)
-	print(f"可變電阻:{duty}")
 
