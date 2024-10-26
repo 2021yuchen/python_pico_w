@@ -82,3 +82,4 @@ if __name__ == '__main__':
         t2 = Timer(period=500, mode=Timer.PERIODIC, callback=do_thing1)
     blynk_mqtt = None    
     main()
+
